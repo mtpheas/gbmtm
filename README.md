@@ -1,2 +1,2 @@
 # gbmtm
-Supplemental syntax file for the paper "The Intersection of Visitation and Misconduct Before Release from Prison: Using Joint Prevalence to Understand Contemporaneous Outcomes"
+Supplemental files and syntax for the paper "The Intersection of Visitation and Misconduct Before Release from Prison: Using Joint Prevalence to Understand Contemporaneous Outcomes"
